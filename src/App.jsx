@@ -15,7 +15,7 @@ function App() {
     <>
     <div>
       <h1 className='font-display'>Rick and Morty</h1>
-      <WacthTheShow />
+      {/* <WacthTheShow /> */}
       <Outlet />
     </div>
     </>
